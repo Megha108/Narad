@@ -1,0 +1,12 @@
+Installing Necessary dependencies
+npm i 
+@ala-ai/alan-sdk-web -> allow to use all the voice capabilities 
+@material-ui/core -> ui kit for styling 
+Classname 
+words-to-numbers 
+
+
+CNN
+Time 
+BBC 
+ABP 
